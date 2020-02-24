@@ -1,6 +1,6 @@
-# Autoencoder
+# Anomaly-Detection
 
-Study with Autoencoder-Anomaly-Detection
+Study with Anomaly-Detection
 
 1. [Ki's blog](https://kh-kim.github.io/)
 
