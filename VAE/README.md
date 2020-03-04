@@ -11,3 +11,5 @@
 - [ratsgo's blog - VAE](https://ratsgo.github.io/generative%20model/2018/01/27/VAE/)
 
 - [VAE Tutorial 1~4](https://dnddnjs.github.io/paper/2018/06/19/vae/)
+
+- [yjucho1's github](https://github.com/yjucho1/articles/blob/master/VAE/README.md)
