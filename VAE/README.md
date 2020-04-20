@@ -1,7 +1,7 @@
 # Variational AutoEncoder
 
 ## Base
-VAE를 이해하는데 있어서 필수적으로 이해해야 할 기초 개념들
+Variational AutoEncoder(VAE)를 이해하는데 있어서 필수적으로 이해해야 할 기초 개념들
   - ratsgo's blog[(참고)](https://ratsgo.github.io/)
  
 1. [베이즈 규칙과 다양한 문제들](https://ratsgo.github.io/statistics/2017/07/01/bayes/) 
