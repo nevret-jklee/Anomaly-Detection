@@ -14,6 +14,10 @@ Variational AutoEncoder(VAE)를 이해하는데 있어서 필수적으로 이해
 
 5. [몬테카를로 방법(Monte Carlo Method), 깁스 샘플링(Gibbs Sampling)](https://ratsgo.github.io/statistics/2017/05/31/gibbs/)
 
+## VAE
+
+- [VAE(Auto-Encoding Variational Bayes) 직관적 이해](https://taeu.github.io/paper/deeplearning-paper-vae/)
+
 ## Reference
 
 - [VAE Slide 자료](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
