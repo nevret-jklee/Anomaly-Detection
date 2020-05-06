@@ -18,6 +18,8 @@ Variational AutoEncoder(VAE)를 이해하는데 있어서 필수적으로 이해
 
 - [VAE(Auto-Encoding Variational Bayes) 직관적 이해](https://taeu.github.io/paper/deeplearning-paper-vae/)
 
+- [VAE란 무엇인가](https://redstarhong.tistory.com/77)
+
 ## Reference
 
 - [VAE Slide 자료](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
