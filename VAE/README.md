@@ -6,7 +6,7 @@ Variational AutoEncoder(VAE)를 이해하는데 있어서 필수적으로 이해
  
 1. [베이즈 규칙과 다양한 문제들](https://ratsgo.github.io/statistics/2017/07/01/bayes/) 
  
-2. [최대우도추정(Maximum Likelihood Estimation](https://ratsgo.github.io/statistics/2017/09/23/MLE/)
+2. [최대우도추정(Maximum Likelihood Estimation)](https://ratsgo.github.io/statistics/2017/09/23/MLE/)
 
 3. [이항분포, 다항분포, 베타분포, 디리클레분포](https://ratsgo.github.io/statistics/2017/05/28/binomial/)
 
